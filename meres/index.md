@@ -11,13 +11,14 @@
 ---
 
 ## A mérés folyamata:
->   A tranzisztor működésének vizsgálata során az NI myDAQ műszert használtam. A mérési áramkörben egy tranzisztort helyeztem el, amelynek bázisához egy ellenálláson keresztül biztosítottam vezérlőjelet. Az emitter- és kollektoráramok értékeit az áramkör működése során vizsgáltam. A mérési folyamat végén a kollektor-ellenálláson eső feszültséget mértem meg, amelyből következtetni lehetett a tranzisztor működésének állapotára és a vezérlőáram hatására. A mérések alapján a tranzisztor erősítési tényezőjét és kapcsolási karakterisztikáját is elemeztem.
+>   Az NI myDAQ műszer segítségével vizsgáltam a tranzisztor működését. A mérési áramkörben elhelyezett tranzisztor bázisához egy ellenálláson keresztül vezérlőjelet adtam. A vizsgálat során az emitter- és kollektoráramokat elemeztem, majd a kollektor-ellenálláson mért feszültség alapján következtettem a tranzisztor működésének állapotára és a vezérlőáram hatására. A mérések eredményeiből meghatároztam a tranzisztor erősítési tényezőjét és kapcsolási karakterisztikáját.
 
 ---
 
 Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
-Megvalósítása ![download](https://github.com/user-attachments/assets/01204c80-86e5-4baf-88ac-4cfb4f18fa27)
+Megvalósítása :
+![download](https://github.com/user-attachments/assets/01204c80-86e5-4baf-88ac-4cfb4f18fa27)
 
 
 ---
