@@ -28,4 +28,4 @@ Ube=5V
 | 1   |  2,6 |  V  |
 
 ---
-#A mérés során azt tapasztaltam hogy 1V felett az értékek szemmel láthatólag nem változnak
+#A mérés során azt tapasztaltam hogy 1V felett az értékek szemmel láthatólag nem változnak.
