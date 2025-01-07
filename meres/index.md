@@ -16,7 +16,7 @@ https://tinyurl.com/256r4w2w
 
 ---
 
-#Ube=5V
+Ube=5V
 
 | érték | mért érték |Mértékegység|
 |-------|------------|------------|
