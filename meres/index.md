@@ -18,7 +18,6 @@
 Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
 ---
----
 
 Megvalósítása :
 ![download](https://github.com/user-attachments/assets/01204c80-86e5-4baf-88ac-4cfb4f18fa27)
