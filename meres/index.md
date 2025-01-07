@@ -17,6 +17,7 @@
 
 Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
+Megvalósítása ![download](https://github.com/user-attachments/assets/01204c80-86e5-4baf-88ac-4cfb4f18fa27)
 
 
 ---
@@ -33,6 +34,7 @@ Ube=5V
 | 0.9     | 2.63     | 11.955   |
 | 1       | 2.65     | 12.045   |
 | 1.5     | 2.73     | 12.409   |
+
 
 A mérés során azt tapasztaltam hogy 1V felett az értékek szemmel láthatólag nem változnak.
 
