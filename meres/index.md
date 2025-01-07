@@ -17,6 +17,8 @@
 
 Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
+---
+
 Megvalósítása :
 ![download](https://github.com/user-attachments/assets/01204c80-86e5-4baf-88ac-4cfb4f18fa27)
 
@@ -27,14 +29,13 @@ Ube=5V
 
 | Ube (V) | URc (V)  | I (mA)   |
 |---------|----------|----------|
-| 0       | 0        | 0.000    |
-| 0.5     | 0.003    | 0.014    |
-| 0.6     | 0.113    | 0.514    |
-| 0.7     | 0.9      | 4.091    |
-| 0.8     | 2.3      | 10.455   |
-| 0.9     | 2.63     | 11.955   |
-| 1       | 2.65     | 12.045   |
-| 1.5     | 2.73     | 12.409   |
+| 0       | 0        |  0.000   |
+| 0.5     | 0.022    |  0.044   |
+| 0.6     | 0.092    |  0.015   |
+| 0.7     | 0.8      |  1.143   |
+| 0.8     | 2        |  2.5     |
+| 0.9     | 2.6      |  2.89    |
+| 1       | 2.6      |  2.6     |  
 
 
 A mérés során azt tapasztaltam hogy 1V felett az értékek szemmel láthatólag nem változnak.
